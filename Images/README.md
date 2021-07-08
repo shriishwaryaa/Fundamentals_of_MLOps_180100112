@@ -1,1 +1,1 @@
-Folder that has all images used in Assignment 1
+Folder that has all images used throughout the MLOps course.
